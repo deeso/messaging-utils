@@ -1,0 +1,11 @@
+toml
+kombu
+redis
+validators
+web.py
+regex
+python-twitter
+bs4
+pymongo
+requests
+https://github.com/deeso/service-utilities
